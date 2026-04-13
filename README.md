@@ -2,9 +2,9 @@
 
 ##Student Information
 ---
--Name
--Student number
--Module name 
+- Name
+- Student number
+- Module name 
 
 ----
 ##Project Information part 1 
