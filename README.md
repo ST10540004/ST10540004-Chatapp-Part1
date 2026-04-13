@@ -2,9 +2,9 @@
 
 ##Student Information
 ---
--Name :Milanathi Heleni
--Student number:ST10540004
--Module name :PROG1521
+-Name
+-Student number
+-Module name 
 
 ----
 ##Project Information part 1 
